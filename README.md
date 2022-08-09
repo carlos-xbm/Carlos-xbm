@@ -25,4 +25,4 @@ Olá! Bem vindo!!
   <a href="https://www.linkedin.com/in/carlos-eduardo-carvalho-7b052b1b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
   
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Carlos-xbm&repo=Carlos-xbm&theme=react)](https://github.com/Carlos-xbm/Carlos-xbm)
+![Snake animation](https://github.com/Carlos-xbm/Carlos-xbm/blob/output/github-contribution-grid-snake.svg)
