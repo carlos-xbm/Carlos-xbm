@@ -1,6 +1,5 @@
 Olá! Bem vindo!!
 
-
 <div>
   <a href="https://github.com/Carlos-xbm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-xbm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -20,10 +19,10 @@ Olá! Bem vindo!!
 </div>
 
 ##
-  
+
 <div>
   <a href="mailto:carloseduardoedu.carlos@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/%40-E--mail-blue?style=for-the-badge&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/carlos-eduardo-carvalho-7b052b1b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
   
-  ![Snake animation](https://github.com/Carlos-xbm/Carlos-xbm/raw/output/github-contribution-grid-snake.svg)
+[svg](https://github.com/Carlos-xbm/Carlos-xbm/raw/output/github-contribution-grid-snake.svg)
