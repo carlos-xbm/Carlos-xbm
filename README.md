@@ -15,11 +15,8 @@ Olá! Bem vindo!!
   <img align="center" height="30" width="40" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="30" width="40" alt="nest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img align="center" height="30" width="40" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" height="30" width="40" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="30" width="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="30" width="40" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" height="30" width="40" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
 ##
@@ -29,4 +26,4 @@ Olá! Bem vindo!!
   <a href="https://www.linkedin.com/in/carlos-eduardo-carvalho-7b052b1b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
   
-  ![Snake animation](https://github.com/Carlos-xbm/Carlos-xbm/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Carlos-xbm/Carlos-xbm/raw/output/github-contribution-grid-snake.svg)
