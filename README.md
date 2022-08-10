@@ -6,7 +6,7 @@ Olá! Bem vindo!!
   <img height="150vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-xbm&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-<div background="gray">
+<div>
   <img align="center" height="30" width="40" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" height="30" width="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
