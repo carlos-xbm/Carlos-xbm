@@ -3,7 +3,7 @@ Olá! Bem vindo!!
 <div width="calc(100% / 2)" height="100px" display="inline-block">
   <a href="https://github.com/Carlos-xbm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-xbm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-xbm&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-xbm&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div>
