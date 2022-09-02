@@ -1,28 +1,23 @@
-Olá! Bem vindo!!
-
-<div display="inline-block">
-  <a href="https://github.com/Carlos-xbm">
-  <img height="150vw" src="https://github-readme-stats.vercel.app/api?username=Carlos-xbm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-xbm&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-<div>
-  <img align="center" height="30" width="40" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align="center" height="30" width="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="30" width="40" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" height="30" width="40" alt="next" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-  <img align="center" height="30" width="40" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" height="30" width="40" alt="nest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-  <img align="center" height="30" width="40" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" height="30" width="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="30" width="40" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
-
+# Olá, Eu sou o Carlos Eduardo <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="50px" margin="50px">
+##### ✨BLUEMER ✨
+#### Iniciei meus estudos na [*Blue Edtech*](https://github.com/blue-edtech), e vou compartilhar aqui o meu progresso no mundo da PROGRAMAÇÃO
 ##
 
-<div>
-  <a href="mailto:carloseduardoedu.carlos@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/%40-E--mail-blue?style=for-the-badge&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/carlos-eduardo-carvalho-7b052b1b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
 
-![Snake animation](https://github.com/carlos-xbm/carlos-xbm/raw/output/github-user-contribution.svg#gh-dark-mode-only)
+<p style = display: "inline_block" align = "center" >
+  <img align = "left" width = "400px" src="https://github-readme-stats.vercel.app/api?username=Carlos-xbm&show_icons=true&theme=great-gatsby"><img width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-xbm&theme=great-gatsby"> 
+   <p/>
+  
+  #
+  
+<div style = display: "inline block" align = "center" margin = "0px"> 
+   <img style = display: "inline_block" align = "left" width = "390" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-xbm&theme=great-gatsby"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/npm.png"/><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <div/>
+
+  ##
+  <div>
+<a href= "https://www.linkedin.com/in/carlos-eduardo-carvalho-7b052b1b5/"/> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/><a href= "https://wa.me/554791038292"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
+   <div/>
+ #
+
+![Snake animation](https://github.com/carlos-xbm/carlos-xbm/raw/output/github-user-contribution.svg)
