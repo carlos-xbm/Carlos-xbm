@@ -24,5 +24,5 @@ Olá! Bem vindo!!
   <a href="mailto:carloseduardoedu.carlos@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/%40-E--mail-blue?style=for-the-badge&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/carlos-eduardo-carvalho-7b052b1b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://github.com/carlos-xbm/carlos-xbm/raw/output/github-user-contribution.svg)
+
+![Snake animation](https://github.com/carlos-xbm/carlos-xbm/raw/output/github-user-contribution.svg#gh-dark-mode-only)
